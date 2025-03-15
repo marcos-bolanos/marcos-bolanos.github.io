@@ -3,27 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="/assets/pp-kr-turquoise.png"
+     style="float: right; margin-left:30px; width: 200px; height: 200px; border-radius: 50%;" />
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm an aspiring scientist and entrepreneur based in Paris, France. My main goal is to become a builder at the intersection between software, hardware, and human well-being. One of my side-quests is to share my journey with you.
 
-There are currently two themes built on Poole:
+### Bio
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+As a child, my love for Minecraft mods quickly got me into coding. I started learning Java at around 10 years old, but I never though I would make a career of it. Growing up in Guatemala, I didn't see many people with tech jobs around me, and I thought it was something everyone just did for fun.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I moved to France when I was a teenager. During that time, personal health issues had the side effect of making me tremendously interested by how my own body and mind worked, so I started reading about biology and pharmacology. This made me realize that if I studied pharmacy, I could one day invent new drugs and improve the lives of many people.
 
-## Setup
+In college, I loved going deep on the scientific subjects that got me into pharma school. However, I also saw that nowadays, a lot of the people doing really cool things in biology are coders. I decided that I was not going to stay in the sidelines, and thus I became one of those people.
 
-Some fun facts about the setup of this project include:
+### Projects
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Interests
 
-Thanks for reading!
+
+
+
